@@ -1,0 +1,1569 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 2 3
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L ComboDiode:D_Small D1
+U 1 1 6014C862
+P 1700 2550
+F 0 "D1" V 1746 2482 50  0000 R CNN
+F 1 "D_Small" V 1655 2482 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" V 1700 2550 50  0001 C CNN
+F 3 "~" V 1700 2550 50  0001 C CNN
+	1    1700 2550
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ComboDiode:D_Small D2
+U 1 1 6014D070
+P 2350 2550
+F 0 "D2" V 2396 2482 50  0000 R CNN
+F 1 "D_Small" V 2305 2482 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" V 2350 2550 50  0001 C CNN
+F 3 "~" V 2350 2550 50  0001 C CNN
+	1    2350 2550
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ComboDiode:D_Small D3
+U 1 1 6014D73B
+P 3000 2550
+F 0 "D3" V 3046 2482 50  0000 R CNN
+F 1 "D_Small" V 2955 2482 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" V 3000 2550 50  0001 C CNN
+F 3 "~" V 3000 2550 50  0001 C CNN
+	1    3000 2550
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ComboDiode:D_Small D4
+U 1 1 6014D745
+P 3650 2550
+F 0 "D4" V 3696 2482 50  0000 R CNN
+F 1 "D_Small" V 3605 2482 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" V 3650 2550 50  0001 C CNN
+F 3 "~" V 3650 2550 50  0001 C CNN
+	1    3650 2550
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ComboDiode:D_Small D5
+U 1 1 60150781
+P 4300 2550
+F 0 "D5" V 4346 2482 50  0000 R CNN
+F 1 "D_Small" V 4255 2482 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" V 4300 2550 50  0001 C CNN
+F 3 "~" V 4300 2550 50  0001 C CNN
+	1    4300 2550
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ComboDiode:D_Small D6
+U 1 1 6015079B
+P 4950 2550
+F 0 "D6" V 4996 2482 50  0000 R CNN
+F 1 "D_Small" V 4905 2482 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" V 4950 2550 50  0001 C CNN
+F 3 "~" V 4950 2550 50  0001 C CNN
+	1    4950 2550
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ComboDiode:D_Small D7
+U 1 1 601507A5
+P 5600 2550
+F 0 "D7" V 5646 2482 50  0000 R CNN
+F 1 "D_Small" V 5555 2482 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" V 5600 2550 50  0001 C CNN
+F 3 "~" V 5600 2550 50  0001 C CNN
+	1    5600 2550
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ComboDiode:D_Small D8
+U 1 1 601507AF
+P 6250 2550
+F 0 "D8" V 6296 2482 50  0000 R CNN
+F 1 "D_Small" V 6205 2482 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" V 6250 2550 50  0001 C CNN
+F 3 "~" V 6250 2550 50  0001 C CNN
+	1    6250 2550
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ComboDiode:D_Small D9
+U 1 1 6015266F
+P 6900 2550
+F 0 "D9" V 6946 2482 50  0000 R CNN
+F 1 "D_Small" V 6855 2482 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" V 6900 2550 50  0001 C CNN
+F 3 "~" V 6900 2550 50  0001 C CNN
+	1    6900 2550
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ComboDiode:D_Small D10
+U 1 1 60152679
+P 7550 2550
+F 0 "D10" V 7596 2482 50  0000 R CNN
+F 1 "D_Small" V 7505 2482 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" V 7550 2550 50  0001 C CNN
+F 3 "~" V 7550 2550 50  0001 C CNN
+	1    7550 2550
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ComboDiode:D_Small D11
+U 1 1 60152683
+P 8200 2550
+F 0 "D11" V 8246 2482 50  0000 R CNN
+F 1 "D_Small" V 8155 2482 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" V 8200 2550 50  0001 C CNN
+F 3 "~" V 8200 2550 50  0001 C CNN
+	1    8200 2550
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ComboDiode:D_Small D12
+U 1 1 6015268D
+P 8850 2550
+F 0 "D12" V 8896 2482 50  0000 R CNN
+F 1 "D_Small" V 8805 2482 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" V 8850 2550 50  0001 C CNN
+F 3 "~" V 8850 2550 50  0001 C CNN
+	1    8850 2550
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ComboDiode:D_Small D13
+U 1 1 601557D3
+P 9500 2550
+F 0 "D13" V 9546 2482 50  0000 R CNN
+F 1 "D_Small" V 9455 2482 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" V 9500 2550 50  0001 C CNN
+F 3 "~" V 9500 2550 50  0001 C CNN
+	1    9500 2550
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ComboDiode:D_Small D14
+U 1 1 60155DDB
+P 1700 3450
+F 0 "D14" V 1746 3382 50  0000 R CNN
+F 1 "D_Small" V 1655 3382 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" V 1700 3450 50  0001 C CNN
+F 3 "~" V 1700 3450 50  0001 C CNN
+	1    1700 3450
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ComboDiode:D_Small D15
+U 1 1 60155DF5
+P 2350 3450
+F 0 "D15" V 2396 3382 50  0000 R CNN
+F 1 "D_Small" V 2305 3382 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" V 2350 3450 50  0001 C CNN
+F 3 "~" V 2350 3450 50  0001 C CNN
+	1    2350 3450
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ComboDiode:D_Small D16
+U 1 1 60155DFF
+P 3000 3450
+F 0 "D16" V 3046 3382 50  0000 R CNN
+F 1 "D_Small" V 2955 3382 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" V 3000 3450 50  0001 C CNN
+F 3 "~" V 3000 3450 50  0001 C CNN
+	1    3000 3450
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ComboDiode:D_Small D17
+U 1 1 60155E09
+P 3650 3450
+F 0 "D17" V 3696 3382 50  0000 R CNN
+F 1 "D_Small" V 3605 3382 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" V 3650 3450 50  0001 C CNN
+F 3 "~" V 3650 3450 50  0001 C CNN
+	1    3650 3450
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ComboDiode:D_Small D18
+U 1 1 60155E13
+P 4300 3450
+F 0 "D18" V 4346 3382 50  0000 R CNN
+F 1 "D_Small" V 4255 3382 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" V 4300 3450 50  0001 C CNN
+F 3 "~" V 4300 3450 50  0001 C CNN
+	1    4300 3450
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ComboDiode:D_Small D19
+U 1 1 60155E1D
+P 4950 3450
+F 0 "D19" V 4996 3382 50  0000 R CNN
+F 1 "D_Small" V 4905 3382 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" V 4950 3450 50  0001 C CNN
+F 3 "~" V 4950 3450 50  0001 C CNN
+	1    4950 3450
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ComboDiode:D_Small D21
+U 1 1 60155E31
+P 6250 3450
+F 0 "D21" V 6296 3382 50  0000 R CNN
+F 1 "D_Small" V 6205 3382 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" V 6250 3450 50  0001 C CNN
+F 3 "~" V 6250 3450 50  0001 C CNN
+	1    6250 3450
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ComboDiode:D_Small D22
+U 1 1 60155E3B
+P 6900 3450
+F 0 "D22" V 6946 3382 50  0000 R CNN
+F 1 "D_Small" V 6855 3382 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" V 6900 3450 50  0001 C CNN
+F 3 "~" V 6900 3450 50  0001 C CNN
+	1    6900 3450
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ComboDiode:D_Small D23
+U 1 1 60155E45
+P 7550 3450
+F 0 "D23" V 7596 3382 50  0000 R CNN
+F 1 "D_Small" V 7505 3382 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" V 7550 3450 50  0001 C CNN
+F 3 "~" V 7550 3450 50  0001 C CNN
+	1    7550 3450
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ComboDiode:D_Small D24
+U 1 1 60155E4F
+P 8200 3450
+F 0 "D24" V 8246 3382 50  0000 R CNN
+F 1 "D_Small" V 8155 3382 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" V 8200 3450 50  0001 C CNN
+F 3 "~" V 8200 3450 50  0001 C CNN
+	1    8200 3450
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ComboDiode:D_Small D25
+U 1 1 60155E59
+P 8850 3450
+F 0 "D25" V 8896 3382 50  0000 R CNN
+F 1 "D_Small" V 8805 3382 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" V 8850 3450 50  0001 C CNN
+F 3 "~" V 8850 3450 50  0001 C CNN
+	1    8850 3450
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ComboDiode:D_Small D26
+U 1 1 60155E63
+P 9500 3450
+F 0 "D26" V 9546 3382 50  0000 R CNN
+F 1 "D_Small" V 9455 3382 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" V 9500 3450 50  0001 C CNN
+F 3 "~" V 9500 3450 50  0001 C CNN
+	1    9500 3450
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ComboDiode:D_Small D27
+U 1 1 6015BEF6
+P 1700 4350
+F 0 "D27" V 1746 4282 50  0000 R CNN
+F 1 "D_Small" V 1655 4282 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" V 1700 4350 50  0001 C CNN
+F 3 "~" V 1700 4350 50  0001 C CNN
+	1    1700 4350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ComboDiode:D_Small D28
+U 1 1 6015BF00
+P 2350 4350
+F 0 "D28" V 2396 4282 50  0000 R CNN
+F 1 "D_Small" V 2305 4282 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" V 2350 4350 50  0001 C CNN
+F 3 "~" V 2350 4350 50  0001 C CNN
+	1    2350 4350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ComboDiode:D_Small D29
+U 1 1 6015BF0A
+P 3000 4350
+F 0 "D29" V 3046 4282 50  0000 R CNN
+F 1 "D_Small" V 2955 4282 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" V 3000 4350 50  0001 C CNN
+F 3 "~" V 3000 4350 50  0001 C CNN
+	1    3000 4350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ComboDiode:D_Small D30
+U 1 1 6015BF14
+P 3650 4350
+F 0 "D30" V 3696 4282 50  0000 R CNN
+F 1 "D_Small" V 3605 4282 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" V 3650 4350 50  0001 C CNN
+F 3 "~" V 3650 4350 50  0001 C CNN
+	1    3650 4350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ComboDiode:D_Small D31
+U 1 1 6015BF1E
+P 4300 4350
+F 0 "D31" V 4346 4282 50  0000 R CNN
+F 1 "D_Small" V 4255 4282 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" V 4300 4350 50  0001 C CNN
+F 3 "~" V 4300 4350 50  0001 C CNN
+	1    4300 4350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ComboDiode:D_Small D32
+U 1 1 6015BF28
+P 4950 4350
+F 0 "D32" V 4996 4282 50  0000 R CNN
+F 1 "D_Small" V 4905 4282 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" V 4950 4350 50  0001 C CNN
+F 3 "~" V 4950 4350 50  0001 C CNN
+	1    4950 4350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ComboDiode:D_Small D34
+U 1 1 6015BF3C
+P 6250 4350
+F 0 "D34" V 6296 4282 50  0000 R CNN
+F 1 "D_Small" V 6205 4282 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" V 6250 4350 50  0001 C CNN
+F 3 "~" V 6250 4350 50  0001 C CNN
+	1    6250 4350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ComboDiode:D_Small D35
+U 1 1 6015BF46
+P 6900 4350
+F 0 "D35" V 6946 4282 50  0000 R CNN
+F 1 "D_Small" V 6855 4282 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" V 6900 4350 50  0001 C CNN
+F 3 "~" V 6900 4350 50  0001 C CNN
+	1    6900 4350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ComboDiode:D_Small D36
+U 1 1 6015BF50
+P 7550 4350
+F 0 "D36" V 7596 4282 50  0000 R CNN
+F 1 "D_Small" V 7505 4282 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" V 7550 4350 50  0001 C CNN
+F 3 "~" V 7550 4350 50  0001 C CNN
+	1    7550 4350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ComboDiode:D_Small D37
+U 1 1 6015BF5A
+P 8200 4350
+F 0 "D37" V 8246 4282 50  0000 R CNN
+F 1 "D_Small" V 8155 4282 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" V 8200 4350 50  0001 C CNN
+F 3 "~" V 8200 4350 50  0001 C CNN
+	1    8200 4350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ComboDiode:D_Small D38
+U 1 1 6015BF64
+P 8850 4350
+F 0 "D38" V 8896 4282 50  0000 R CNN
+F 1 "D_Small" V 8805 4282 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" V 8850 4350 50  0001 C CNN
+F 3 "~" V 8850 4350 50  0001 C CNN
+	1    8850 4350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ComboDiode:D_Small D39
+U 1 1 6015BF6E
+P 9500 4350
+F 0 "D39" V 9546 4282 50  0000 R CNN
+F 1 "D_Small" V 9455 4282 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" V 9500 4350 50  0001 C CNN
+F 3 "~" V 9500 4350 50  0001 C CNN
+	1    9500 4350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ComboDiode:D_Small D40
+U 1 1 601631F2
+P 1700 5250
+F 0 "D40" V 1746 5182 50  0000 R CNN
+F 1 "D_Small" V 1655 5182 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" V 1700 5250 50  0001 C CNN
+F 3 "~" V 1700 5250 50  0001 C CNN
+	1    1700 5250
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ComboDiode:D_Small D41
+U 1 1 6016320C
+P 2350 5250
+F 0 "D41" V 2396 5182 50  0000 R CNN
+F 1 "D_Small" V 2305 5182 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" V 2350 5250 50  0001 C CNN
+F 3 "~" V 2350 5250 50  0001 C CNN
+	1    2350 5250
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ComboDiode:D_Small D42
+U 1 1 60163216
+P 3000 5250
+F 0 "D42" V 3046 5182 50  0000 R CNN
+F 1 "D_Small" V 2955 5182 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" V 3000 5250 50  0001 C CNN
+F 3 "~" V 3000 5250 50  0001 C CNN
+	1    3000 5250
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ComboDiode:D_Small D43
+U 1 1 60163220
+P 3650 5250
+F 0 "D43" V 3696 5182 50  0000 R CNN
+F 1 "D_Small" V 3605 5182 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" V 3650 5250 50  0001 C CNN
+F 3 "~" V 3650 5250 50  0001 C CNN
+	1    3650 5250
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ComboDiode:D_Small D44
+U 1 1 6016322A
+P 4300 5250
+F 0 "D44" V 4346 5182 50  0000 R CNN
+F 1 "D_Small" V 4255 5182 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" V 4300 5250 50  0001 C CNN
+F 3 "~" V 4300 5250 50  0001 C CNN
+	1    4300 5250
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ComboDiode:D_Small D45
+U 1 1 60163234
+P 4950 5250
+F 0 "D45" V 4996 5182 50  0000 R CNN
+F 1 "D_Small" V 4905 5182 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" V 4950 5250 50  0001 C CNN
+F 3 "~" V 4950 5250 50  0001 C CNN
+	1    4950 5250
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ComboDiode:D_Small D47
+U 1 1 60163248
+P 6250 5250
+F 0 "D47" V 6296 5182 50  0000 R CNN
+F 1 "D_Small" V 6205 5182 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" V 6250 5250 50  0001 C CNN
+F 3 "~" V 6250 5250 50  0001 C CNN
+	1    6250 5250
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ComboDiode:D_Small D48
+U 1 1 60163252
+P 6900 5250
+F 0 "D48" V 6946 5182 50  0000 R CNN
+F 1 "D_Small" V 6855 5182 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" V 6900 5250 50  0001 C CNN
+F 3 "~" V 6900 5250 50  0001 C CNN
+	1    6900 5250
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ComboDiode:D_Small D49
+U 1 1 6016325C
+P 7550 5250
+F 0 "D49" V 7596 5182 50  0000 R CNN
+F 1 "D_Small" V 7505 5182 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" V 7550 5250 50  0001 C CNN
+F 3 "~" V 7550 5250 50  0001 C CNN
+	1    7550 5250
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ComboDiode:D_Small D50
+U 1 1 60163266
+P 8200 5250
+F 0 "D50" V 8246 5182 50  0000 R CNN
+F 1 "D_Small" V 8155 5182 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" V 8200 5250 50  0001 C CNN
+F 3 "~" V 8200 5250 50  0001 C CNN
+	1    8200 5250
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ComboDiode:D_Small D51
+U 1 1 60163270
+P 8850 5250
+F 0 "D51" V 8896 5182 50  0000 R CNN
+F 1 "D_Small" V 8805 5182 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" V 8850 5250 50  0001 C CNN
+F 3 "~" V 8850 5250 50  0001 C CNN
+	1    8850 5250
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ComboDiode:D_Small D52
+U 1 1 6016327A
+P 9500 5250
+F 0 "D52" V 9546 5182 50  0000 R CNN
+F 1 "D_Small" V 9455 5182 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" V 9500 5250 50  0001 C CNN
+F 3 "~" V 9500 5250 50  0001 C CNN
+	1    9500 5250
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ComboDiode:D_Small D46
+U 1 1 6016323E
+P 5600 5250
+F 0 "D46" V 5646 5182 50  0000 R CNN
+F 1 "D_Small" V 5555 5182 50  0000 R CNN
+F 2 "Diode_SMD:D_SOD-123" V 5600 5250 50  0001 C CNN
+F 3 "~" V 5600 5250 50  0001 C CNN
+	1    5600 5250
+	0    -1   -1   0   
+$EndComp
+Text GLabel 1000 2650 0    50   Input ~ 0
+ROW0
+Text GLabel 1025 3550 0    50   Input ~ 0
+ROW1
+Text GLabel 1050 4450 0    50   Input ~ 0
+ROW2
+Text GLabel 1050 5350 0    50   Input ~ 0
+ROW3
+Wire Wire Line
+	1700 2650 1000 2650
+Wire Wire Line
+	1700 3550 1025 3550
+Wire Wire Line
+	1700 4450 1050 4450
+Wire Wire Line
+	1700 5350 1050 5350
+Wire Wire Line
+	1700 2650 2350 2650
+Connection ~ 1700 2650
+Connection ~ 2350 2650
+Wire Wire Line
+	2350 2650 3000 2650
+Connection ~ 3000 2650
+Wire Wire Line
+	3000 2650 3650 2650
+Wire Wire Line
+	3650 2650 4300 2650
+Connection ~ 3650 2650
+Connection ~ 4300 2650
+Wire Wire Line
+	4300 2650 4950 2650
+Connection ~ 4950 2650
+Wire Wire Line
+	4950 2650 5600 2650
+Connection ~ 5600 2650
+Wire Wire Line
+	5600 2650 6250 2650
+Connection ~ 6250 2650
+Wire Wire Line
+	6250 2650 6900 2650
+Connection ~ 6900 2650
+Wire Wire Line
+	6900 2650 7550 2650
+Connection ~ 7550 2650
+Wire Wire Line
+	7550 2650 8200 2650
+Connection ~ 8200 2650
+Wire Wire Line
+	8200 2650 8850 2650
+Connection ~ 8850 2650
+Wire Wire Line
+	8850 2650 9500 2650
+Wire Wire Line
+	1700 3550 2350 3550
+Connection ~ 1700 3550
+Connection ~ 2350 3550
+Wire Wire Line
+	2350 3550 3000 3550
+Connection ~ 3000 3550
+Wire Wire Line
+	3000 3550 3650 3550
+Connection ~ 3650 3550
+Wire Wire Line
+	3650 3550 4300 3550
+Connection ~ 4300 3550
+Wire Wire Line
+	4300 3550 4950 3550
+Connection ~ 4950 3550
+Wire Wire Line
+	4950 3550 6250 3550
+Connection ~ 6250 3550
+Wire Wire Line
+	6250 3550 6900 3550
+Connection ~ 6900 3550
+Wire Wire Line
+	6900 3550 7550 3550
+Connection ~ 7550 3550
+Wire Wire Line
+	7550 3550 8200 3550
+Connection ~ 8200 3550
+Wire Wire Line
+	8200 3550 8850 3550
+Connection ~ 8850 3550
+Wire Wire Line
+	8850 3550 9500 3550
+Wire Wire Line
+	1700 4450 2350 4450
+Connection ~ 1700 4450
+Connection ~ 2350 4450
+Wire Wire Line
+	2350 4450 3000 4450
+Connection ~ 3000 4450
+Wire Wire Line
+	3000 4450 3650 4450
+Connection ~ 3650 4450
+Wire Wire Line
+	3650 4450 4300 4450
+Connection ~ 4300 4450
+Wire Wire Line
+	4300 4450 4950 4450
+Connection ~ 4950 4450
+Wire Wire Line
+	4950 4450 6250 4450
+Connection ~ 6250 4450
+Wire Wire Line
+	6250 4450 6900 4450
+Connection ~ 6900 4450
+Wire Wire Line
+	6900 4450 7550 4450
+Connection ~ 7550 4450
+Wire Wire Line
+	7550 4450 8200 4450
+Connection ~ 8200 4450
+Wire Wire Line
+	8200 4450 8850 4450
+Connection ~ 8850 4450
+Wire Wire Line
+	8850 4450 9500 4450
+Wire Wire Line
+	1700 5350 2350 5350
+Connection ~ 1700 5350
+Connection ~ 2350 5350
+Wire Wire Line
+	2350 5350 3000 5350
+Connection ~ 3000 5350
+Wire Wire Line
+	3000 5350 3650 5350
+Connection ~ 3650 5350
+Wire Wire Line
+	3650 5350 4300 5350
+Connection ~ 4300 5350
+Wire Wire Line
+	4300 5350 4950 5350
+Connection ~ 4950 5350
+Wire Wire Line
+	4950 5350 5600 5350
+Connection ~ 5600 5350
+Wire Wire Line
+	5600 5350 6250 5350
+Connection ~ 6250 5350
+Wire Wire Line
+	6250 5350 6900 5350
+Connection ~ 6900 5350
+Wire Wire Line
+	6900 5350 7550 5350
+Connection ~ 7550 5350
+Wire Wire Line
+	7550 5350 8200 5350
+Connection ~ 8200 5350
+Wire Wire Line
+	8200 5350 8850 5350
+Connection ~ 8850 5350
+Wire Wire Line
+	8850 5350 9500 5350
+Wire Wire Line
+	9900 2050 9900 1475
+Wire Wire Line
+	9250 2050 9250 1475
+Wire Wire Line
+	8600 2050 8600 1475
+Wire Wire Line
+	7950 2050 7950 1475
+Wire Wire Line
+	7300 2050 7300 1475
+Wire Wire Line
+	6650 2050 6650 1475
+Text GLabel 9900 1475 1    50   Input ~ 0
+COL12
+Text GLabel 9250 1475 1    50   Input ~ 0
+COL11
+Text GLabel 8600 1475 1    50   Input ~ 0
+COL10
+Text GLabel 7950 1475 1    50   Input ~ 0
+COL9
+Text GLabel 7300 1475 1    50   Input ~ 0
+COL8
+Text GLabel 6650 1475 1    50   Input ~ 0
+COL7
+Text GLabel 6000 1475 1    50   Input ~ 0
+COL6
+Text GLabel 5350 1475 1    50   Input ~ 0
+COL5
+Text GLabel 4700 1475 1    50   Input ~ 0
+COL4
+Text GLabel 4050 1475 1    50   Input ~ 0
+COL3
+Text GLabel 3400 1475 1    50   Input ~ 0
+COL2
+Text GLabel 2750 1500 1    50   Input ~ 0
+COL1
+Text GLabel 2100 1500 1    50   Input ~ 0
+COL0
+Wire Wire Line
+	6000 2050 6000 1475
+Wire Wire Line
+	5350 2050 5350 1475
+Wire Wire Line
+	4700 2050 4700 1475
+Wire Wire Line
+	4050 2050 4050 1475
+Wire Wire Line
+	3400 1475 3400 2050
+Wire Wire Line
+	2750 2050 2750 1500
+Wire Wire Line
+	2100 1500 2100 2050
+$Comp
+L KiCad_Customs:MX MX1
+U 1 1 60241918
+P 1750 2100
+F 0 "MX1" H 1907 2323 60  0000 C CNN
+F 1 "MX" H 1907 2249 20  0000 C CNN
+F 2 "KiCadLibs:MX-1U-Hotswap-Antishear" H 1125 2075 60  0001 C CNN
+F 3 "" H 1125 2075 60  0001 C CNN
+	1    1750 2100
+	1    0    0    -1  
+$EndComp
+$Comp
+L KiCad_Customs:MX MX2
+U 1 1 6025373E
+P 2400 2100
+F 0 "MX2" H 2557 2323 60  0000 C CNN
+F 1 "MX" H 2557 2249 20  0000 C CNN
+F 2 "KiCadLibs:MX-1U-Hotswap-Antishear" H 1775 2075 60  0001 C CNN
+F 3 "" H 1775 2075 60  0001 C CNN
+	1    2400 2100
+	1    0    0    -1  
+$EndComp
+$Comp
+L KiCad_Customs:MX MX3
+U 1 1 60255A0F
+P 3050 2100
+F 0 "MX3" H 3207 2323 60  0000 C CNN
+F 1 "MX" H 3207 2249 20  0000 C CNN
+F 2 "KiCadLibs:MX-1U-Hotswap-Antishear" H 2425 2075 60  0001 C CNN
+F 3 "" H 2425 2075 60  0001 C CNN
+	1    3050 2100
+	1    0    0    -1  
+$EndComp
+$Comp
+L KiCad_Customs:MX MX4
+U 1 1 60255A19
+P 3700 2100
+F 0 "MX4" H 3857 2323 60  0000 C CNN
+F 1 "MX" H 3857 2249 20  0000 C CNN
+F 2 "KiCadLibs:MX-1U-Hotswap-Antishear" H 3075 2075 60  0001 C CNN
+F 3 "" H 3075 2075 60  0001 C CNN
+	1    3700 2100
+	1    0    0    -1  
+$EndComp
+$Comp
+L KiCad_Customs:MX MX5
+U 1 1 60258478
+P 4350 2100
+F 0 "MX5" H 4507 2323 60  0000 C CNN
+F 1 "MX" H 4507 2249 20  0000 C CNN
+F 2 "KiCadLibs:MX-1U-Hotswap-Antishear" H 3725 2075 60  0001 C CNN
+F 3 "" H 3725 2075 60  0001 C CNN
+	1    4350 2100
+	1    0    0    -1  
+$EndComp
+$Comp
+L KiCad_Customs:MX MX6
+U 1 1 6025849C
+P 5000 2100
+F 0 "MX6" H 5157 2323 60  0000 C CNN
+F 1 "MX" H 5157 2249 20  0000 C CNN
+F 2 "KiCadLibs:MX-1U-Hotswap-Antishear" H 4375 2075 60  0001 C CNN
+F 3 "" H 4375 2075 60  0001 C CNN
+	1    5000 2100
+	1    0    0    -1  
+$EndComp
+$Comp
+L KiCad_Customs:MX MX8
+U 1 1 6025CEC8
+P 6300 2100
+F 0 "MX8" H 6457 2323 60  0000 C CNN
+F 1 "MX" H 6457 2249 20  0000 C CNN
+F 2 "KiCadLibs:MX-1U-Hotswap-Antishear" H 5675 2075 60  0001 C CNN
+F 3 "" H 5675 2075 60  0001 C CNN
+	1    6300 2100
+	1    0    0    -1  
+$EndComp
+$Comp
+L KiCad_Customs:MX MX9
+U 1 1 6025CED2
+P 6950 2100
+F 0 "MX9" H 7107 2323 60  0000 C CNN
+F 1 "MX" H 7107 2249 20  0000 C CNN
+F 2 "KiCadLibs:MX-1U-Hotswap-Antishear" H 6325 2075 60  0001 C CNN
+F 3 "" H 6325 2075 60  0001 C CNN
+	1    6950 2100
+	1    0    0    -1  
+$EndComp
+$Comp
+L KiCad_Customs:MX MX10
+U 1 1 6025CEDC
+P 7600 2100
+F 0 "MX10" H 7757 2323 60  0000 C CNN
+F 1 "MX" H 7757 2249 20  0000 C CNN
+F 2 "KiCadLibs:MX-1U-Hotswap-Antishear" H 6975 2075 60  0001 C CNN
+F 3 "" H 6975 2075 60  0001 C CNN
+	1    7600 2100
+	1    0    0    -1  
+$EndComp
+$Comp
+L KiCad_Customs:MX MX11
+U 1 1 6025CEE6
+P 8250 2100
+F 0 "MX11" H 8407 2323 60  0000 C CNN
+F 1 "MX" H 8407 2249 20  0000 C CNN
+F 2 "KiCadLibs:MX-1U-Hotswap-Antishear" H 7625 2075 60  0001 C CNN
+F 3 "" H 7625 2075 60  0001 C CNN
+	1    8250 2100
+	1    0    0    -1  
+$EndComp
+$Comp
+L KiCad_Customs:MX MX12
+U 1 1 6025CEF0
+P 8900 2100
+F 0 "MX12" H 9057 2323 60  0000 C CNN
+F 1 "MX" H 9057 2249 20  0000 C CNN
+F 2 "KiCadLibs:MX-1U-Hotswap-Antishear" H 8275 2075 60  0001 C CNN
+F 3 "" H 8275 2075 60  0001 C CNN
+	1    8900 2100
+	1    0    0    -1  
+$EndComp
+$Comp
+L KiCad_Customs:MX MX13
+U 1 1 6025CEFA
+P 9550 2100
+F 0 "MX13" H 9707 2323 60  0000 C CNN
+F 1 "MX" H 9707 2249 20  0000 C CNN
+F 2 "KiCadLibs:MX-1U-Hotswap-Antishear" H 8925 2075 60  0001 C CNN
+F 3 "" H 8925 2075 60  0001 C CNN
+	1    9550 2100
+	1    0    0    -1  
+$EndComp
+$Comp
+L KiCad_Customs:MX-ec11 MX_ec11_7
+U 1 1 6027C706
+P 5650 2100
+F 0 "MX_ec11_7" H 5496 2020 60  0000 R CNN
+F 1 "MX-ec11" H 5496 1946 20  0000 R CNN
+F 2 "KiCadLibs:MX-1U-Hotswap-Antishear-ec11" H 5025 2075 60  0001 C CNN
+F 3 "" H 5025 2075 60  0001 C CNN
+	1    5650 2100
+	1    0    0    -1  
+$EndComp
+$Comp
+L KiCad_Customs:MX MX21
+U 1 1 60285CEF
+P 6300 3000
+F 0 "MX21" H 6457 3223 60  0000 C CNN
+F 1 "MX" H 6457 3149 20  0000 C CNN
+F 2 "KiCadLibs:MX-1U-Hotswap-Antishear" H 5675 2975 60  0001 C CNN
+F 3 "" H 5675 2975 60  0001 C CNN
+	1    6300 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L KiCad_Customs:MX MX22
+U 1 1 60285CF9
+P 6950 3000
+F 0 "MX22" H 7107 3223 60  0000 C CNN
+F 1 "MX" H 7107 3149 20  0000 C CNN
+F 2 "KiCadLibs:MX-1U-Hotswap-Antishear" H 6325 2975 60  0001 C CNN
+F 3 "" H 6325 2975 60  0001 C CNN
+	1    6950 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L KiCad_Customs:MX MX23
+U 1 1 60285D03
+P 7600 3000
+F 0 "MX23" H 7757 3223 60  0000 C CNN
+F 1 "MX" H 7757 3149 20  0000 C CNN
+F 2 "KiCadLibs:MX-1U-Hotswap-Antishear" H 6975 2975 60  0001 C CNN
+F 3 "" H 6975 2975 60  0001 C CNN
+	1    7600 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L KiCad_Customs:MX MX24
+U 1 1 60285D0D
+P 8250 3000
+F 0 "MX24" H 8407 3223 60  0000 C CNN
+F 1 "MX" H 8407 3149 20  0000 C CNN
+F 2 "KiCadLibs:MX-1U-Hotswap-Antishear" H 7625 2975 60  0001 C CNN
+F 3 "" H 7625 2975 60  0001 C CNN
+	1    8250 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L KiCad_Customs:MX MX25
+U 1 1 60285D17
+P 8900 3000
+F 0 "MX25" H 9057 3223 60  0000 C CNN
+F 1 "MX" H 9057 3149 20  0000 C CNN
+F 2 "KiCadLibs:MX-1U-Hotswap-Antishear" H 8275 2975 60  0001 C CNN
+F 3 "" H 8275 2975 60  0001 C CNN
+	1    8900 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L KiCad_Customs:MX MX26
+U 1 1 60285D21
+P 9550 3000
+F 0 "MX26" H 9707 3223 60  0000 C CNN
+F 1 "MX" H 9707 3149 20  0000 C CNN
+F 2 "KiCadLibs:MX-1U-Hotswap-Antishear" H 8925 2975 60  0001 C CNN
+F 3 "" H 8925 2975 60  0001 C CNN
+	1    9550 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L KiCad_Customs:MX MX14
+U 1 1 6028C4AE
+P 1750 3000
+F 0 "MX14" H 1907 3223 60  0000 C CNN
+F 1 "MX" H 1907 3149 20  0000 C CNN
+F 2 "KiCadLibs:MX-1U-Hotswap-Antishear" H 1125 2975 60  0001 C CNN
+F 3 "" H 1125 2975 60  0001 C CNN
+	1    1750 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L KiCad_Customs:MX MX15
+U 1 1 6028C4B8
+P 2400 3000
+F 0 "MX15" H 2557 3223 60  0000 C CNN
+F 1 "MX" H 2557 3149 20  0000 C CNN
+F 2 "KiCadLibs:MX-1U-Hotswap-Antishear" H 1775 2975 60  0001 C CNN
+F 3 "" H 1775 2975 60  0001 C CNN
+	1    2400 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L KiCad_Customs:MX MX16
+U 1 1 6028C4C2
+P 3050 3000
+F 0 "MX16" H 3207 3223 60  0000 C CNN
+F 1 "MX" H 3207 3149 20  0000 C CNN
+F 2 "KiCadLibs:MX-1U-Hotswap-Antishear" H 2425 2975 60  0001 C CNN
+F 3 "" H 2425 2975 60  0001 C CNN
+	1    3050 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L KiCad_Customs:MX MX17
+U 1 1 6028C4CC
+P 3700 3000
+F 0 "MX17" H 3857 3223 60  0000 C CNN
+F 1 "MX" H 3857 3149 20  0000 C CNN
+F 2 "KiCadLibs:MX-1U-Hotswap-Antishear" H 3075 2975 60  0001 C CNN
+F 3 "" H 3075 2975 60  0001 C CNN
+	1    3700 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L KiCad_Customs:MX MX18
+U 1 1 6028C4D6
+P 4350 3000
+F 0 "MX18" H 4507 3223 60  0000 C CNN
+F 1 "MX" H 4507 3149 20  0000 C CNN
+F 2 "KiCadLibs:MX-1U-Hotswap-Antishear" H 3725 2975 60  0001 C CNN
+F 3 "" H 3725 2975 60  0001 C CNN
+	1    4350 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L KiCad_Customs:MX MX19
+U 1 1 6028C4E0
+P 5000 3000
+F 0 "MX19" H 5157 3223 60  0000 C CNN
+F 1 "MX" H 5157 3149 20  0000 C CNN
+F 2 "KiCadLibs:MX-1U-Hotswap-Antishear" H 4375 2975 60  0001 C CNN
+F 3 "" H 4375 2975 60  0001 C CNN
+	1    5000 3000
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5350 2950 5350 3850
+$Comp
+L KiCad_Customs:MX MX27
+U 1 1 6029A118
+P 1750 3900
+F 0 "MX27" H 1907 4123 60  0000 C CNN
+F 1 "MX" H 1907 4049 20  0000 C CNN
+F 2 "KiCadLibs:MX-1U-Hotswap-Antishear" H 1125 3875 60  0001 C CNN
+F 3 "" H 1125 3875 60  0001 C CNN
+	1    1750 3900
+	1    0    0    -1  
+$EndComp
+$Comp
+L KiCad_Customs:MX MX28
+U 1 1 6029A13C
+P 2400 3900
+F 0 "MX28" H 2557 4123 60  0000 C CNN
+F 1 "MX" H 2557 4049 20  0000 C CNN
+F 2 "KiCadLibs:MX-1U-Hotswap-Antishear" H 1775 3875 60  0001 C CNN
+F 3 "" H 1775 3875 60  0001 C CNN
+	1    2400 3900
+	1    0    0    -1  
+$EndComp
+$Comp
+L KiCad_Customs:MX MX29
+U 1 1 6029A146
+P 3050 3900
+F 0 "MX29" H 3207 4123 60  0000 C CNN
+F 1 "MX" H 3207 4049 20  0000 C CNN
+F 2 "KiCadLibs:MX-1U-Hotswap-Antishear" H 2425 3875 60  0001 C CNN
+F 3 "" H 2425 3875 60  0001 C CNN
+	1    3050 3900
+	1    0    0    -1  
+$EndComp
+$Comp
+L KiCad_Customs:MX MX30
+U 1 1 6029A150
+P 3700 3900
+F 0 "MX30" H 3857 4123 60  0000 C CNN
+F 1 "MX" H 3857 4049 20  0000 C CNN
+F 2 "KiCadLibs:MX-1U-Hotswap-Antishear" H 3075 3875 60  0001 C CNN
+F 3 "" H 3075 3875 60  0001 C CNN
+	1    3700 3900
+	1    0    0    -1  
+$EndComp
+$Comp
+L KiCad_Customs:MX MX31
+U 1 1 6029A15A
+P 4350 3900
+F 0 "MX31" H 4507 4123 60  0000 C CNN
+F 1 "MX" H 4507 4049 20  0000 C CNN
+F 2 "KiCadLibs:MX-1U-Hotswap-Antishear" H 3725 3875 60  0001 C CNN
+F 3 "" H 3725 3875 60  0001 C CNN
+	1    4350 3900
+	1    0    0    -1  
+$EndComp
+$Comp
+L KiCad_Customs:MX MX32
+U 1 1 6029A164
+P 5000 3900
+F 0 "MX32" H 5157 4123 60  0000 C CNN
+F 1 "MX" H 5157 4049 20  0000 C CNN
+F 2 "KiCadLibs:MX-1U-Hotswap-Antishear" H 4375 3875 60  0001 C CNN
+F 3 "" H 4375 3875 60  0001 C CNN
+	1    5000 3900
+	1    0    0    -1  
+$EndComp
+Connection ~ 5350 3850
+Wire Wire Line
+	5350 3850 5350 4750
+$Comp
+L KiCad_Customs:MX MX40
+U 1 1 602A16E6
+P 1750 4800
+F 0 "MX40" H 1907 5023 60  0000 C CNN
+F 1 "MX" H 1907 4949 20  0000 C CNN
+F 2 "KiCadLibs:MX-1U-Hotswap-Antishear" H 1125 4775 60  0001 C CNN
+F 3 "" H 1125 4775 60  0001 C CNN
+	1    1750 4800
+	1    0    0    -1  
+$EndComp
+$Comp
+L KiCad_Customs:MX MX41
+U 1 1 602A170A
+P 2400 4800
+F 0 "MX41" H 2557 5023 60  0000 C CNN
+F 1 "MX" H 2557 4949 20  0000 C CNN
+F 2 "KiCadLibs:MX-1U-Hotswap-Antishear" H 1775 4775 60  0001 C CNN
+F 3 "" H 1775 4775 60  0001 C CNN
+	1    2400 4800
+	1    0    0    -1  
+$EndComp
+$Comp
+L KiCad_Customs:MX MX42
+U 1 1 602A1714
+P 3050 4800
+F 0 "MX42" H 3207 5023 60  0000 C CNN
+F 1 "MX" H 3207 4949 20  0000 C CNN
+F 2 "KiCadLibs:MX-1U-Hotswap-Antishear" H 2425 4775 60  0001 C CNN
+F 3 "" H 2425 4775 60  0001 C CNN
+	1    3050 4800
+	1    0    0    -1  
+$EndComp
+$Comp
+L KiCad_Customs:MX MX43
+U 1 1 602A171E
+P 3700 4800
+F 0 "MX43" H 3857 5023 60  0000 C CNN
+F 1 "MX" H 3857 4949 20  0000 C CNN
+F 2 "KiCadLibs:MX-1U-Hotswap-Antishear" H 3075 4775 60  0001 C CNN
+F 3 "" H 3075 4775 60  0001 C CNN
+	1    3700 4800
+	1    0    0    -1  
+$EndComp
+$Comp
+L KiCad_Customs:MX MX44
+U 1 1 602A1728
+P 4350 4800
+F 0 "MX44" H 4507 5023 60  0000 C CNN
+F 1 "MX" H 4507 4949 20  0000 C CNN
+F 2 "KiCadLibs:MX-1U-Hotswap-Antishear" H 3725 4775 60  0001 C CNN
+F 3 "" H 3725 4775 60  0001 C CNN
+	1    4350 4800
+	1    0    0    -1  
+$EndComp
+$Comp
+L KiCad_Customs:MX MX45
+U 1 1 602A1732
+P 5000 4800
+F 0 "MX45" H 5157 5023 60  0000 C CNN
+F 1 "MX" H 5157 4949 20  0000 C CNN
+F 2 "KiCadLibs:MX-1U-Hotswap-Antishear" H 4375 4775 60  0001 C CNN
+F 3 "" H 4375 4775 60  0001 C CNN
+	1    5000 4800
+	1    0    0    -1  
+$EndComp
+$Comp
+L KiCad_Customs:MX MX34
+U 1 1 602A8368
+P 6300 3900
+F 0 "MX34" H 6457 4123 60  0000 C CNN
+F 1 "MX" H 6457 4049 20  0000 C CNN
+F 2 "KiCadLibs:MX-1U-Hotswap-Antishear" H 5675 3875 60  0001 C CNN
+F 3 "" H 5675 3875 60  0001 C CNN
+	1    6300 3900
+	1    0    0    -1  
+$EndComp
+$Comp
+L KiCad_Customs:MX MX35
+U 1 1 602A8372
+P 6950 3900
+F 0 "MX35" H 7107 4123 60  0000 C CNN
+F 1 "MX" H 7107 4049 20  0000 C CNN
+F 2 "KiCadLibs:MX-1U-Hotswap-Antishear" H 6325 3875 60  0001 C CNN
+F 3 "" H 6325 3875 60  0001 C CNN
+	1    6950 3900
+	1    0    0    -1  
+$EndComp
+$Comp
+L KiCad_Customs:MX MX36
+U 1 1 602A837C
+P 7600 3900
+F 0 "MX36" H 7757 4123 60  0000 C CNN
+F 1 "MX" H 7757 4049 20  0000 C CNN
+F 2 "KiCadLibs:MX-1U-Hotswap-Antishear" H 6975 3875 60  0001 C CNN
+F 3 "" H 6975 3875 60  0001 C CNN
+	1    7600 3900
+	1    0    0    -1  
+$EndComp
+$Comp
+L KiCad_Customs:MX MX37
+U 1 1 602A8386
+P 8250 3900
+F 0 "MX37" H 8407 4123 60  0000 C CNN
+F 1 "MX" H 8407 4049 20  0000 C CNN
+F 2 "KiCadLibs:MX-1U-Hotswap-Antishear" H 7625 3875 60  0001 C CNN
+F 3 "" H 7625 3875 60  0001 C CNN
+	1    8250 3900
+	1    0    0    -1  
+$EndComp
+$Comp
+L KiCad_Customs:MX MX38
+U 1 1 602A8390
+P 8900 3900
+F 0 "MX38" H 9057 4123 60  0000 C CNN
+F 1 "MX" H 9057 4049 20  0000 C CNN
+F 2 "KiCadLibs:MX-1U-Hotswap-Antishear" H 8275 3875 60  0001 C CNN
+F 3 "" H 8275 3875 60  0001 C CNN
+	1    8900 3900
+	1    0    0    -1  
+$EndComp
+$Comp
+L KiCad_Customs:MX MX39
+U 1 1 602A839A
+P 9550 3900
+F 0 "MX39" H 9707 4123 60  0000 C CNN
+F 1 "MX" H 9707 4049 20  0000 C CNN
+F 2 "KiCadLibs:MX-1U-Hotswap-Antishear" H 8925 3875 60  0001 C CNN
+F 3 "" H 8925 3875 60  0001 C CNN
+	1    9550 3900
+	1    0    0    -1  
+$EndComp
+$Comp
+L KiCad_Customs:MX MX47
+U 1 1 602AF03A
+P 6300 4800
+F 0 "MX47" H 6457 5023 60  0000 C CNN
+F 1 "MX" H 6457 4949 20  0000 C CNN
+F 2 "KiCadLibs:MX-1U-Hotswap-Antishear" H 5675 4775 60  0001 C CNN
+F 3 "" H 5675 4775 60  0001 C CNN
+	1    6300 4800
+	1    0    0    -1  
+$EndComp
+$Comp
+L KiCad_Customs:MX MX48
+U 1 1 602AF044
+P 6950 4800
+F 0 "MX48" H 7107 5023 60  0000 C CNN
+F 1 "MX" H 7107 4949 20  0000 C CNN
+F 2 "KiCadLibs:MX-1U-Hotswap-Antishear" H 6325 4775 60  0001 C CNN
+F 3 "" H 6325 4775 60  0001 C CNN
+	1    6950 4800
+	1    0    0    -1  
+$EndComp
+$Comp
+L KiCad_Customs:MX MX49
+U 1 1 602AF04E
+P 7600 4800
+F 0 "MX49" H 7757 5023 60  0000 C CNN
+F 1 "MX" H 7757 4949 20  0000 C CNN
+F 2 "KiCadLibs:MX-1U-Hotswap-Antishear" H 6975 4775 60  0001 C CNN
+F 3 "" H 6975 4775 60  0001 C CNN
+	1    7600 4800
+	1    0    0    -1  
+$EndComp
+$Comp
+L KiCad_Customs:MX MX50
+U 1 1 602AF058
+P 8250 4800
+F 0 "MX50" H 8407 5023 60  0000 C CNN
+F 1 "MX" H 8407 4949 20  0000 C CNN
+F 2 "KiCadLibs:MX-1U-Hotswap-Antishear" H 7625 4775 60  0001 C CNN
+F 3 "" H 7625 4775 60  0001 C CNN
+	1    8250 4800
+	1    0    0    -1  
+$EndComp
+$Comp
+L KiCad_Customs:MX MX51
+U 1 1 602AF062
+P 8900 4800
+F 0 "MX51" H 9057 5023 60  0000 C CNN
+F 1 "MX" H 9057 4949 20  0000 C CNN
+F 2 "KiCadLibs:MX-1U-Hotswap-Antishear" H 8275 4775 60  0001 C CNN
+F 3 "" H 8275 4775 60  0001 C CNN
+	1    8900 4800
+	1    0    0    -1  
+$EndComp
+$Comp
+L KiCad_Customs:MX MX52
+U 1 1 602AF06C
+P 9550 4800
+F 0 "MX52" H 9707 5023 60  0000 C CNN
+F 1 "MX" H 9707 4949 20  0000 C CNN
+F 2 "KiCadLibs:MX-1U-Hotswap-Antishear" H 8925 4775 60  0001 C CNN
+F 3 "" H 8925 4775 60  0001 C CNN
+	1    9550 4800
+	1    0    0    -1  
+$EndComp
+$Comp
+L KiCad_Customs:MX-ec11 MX_ec11_46
+U 1 1 602BD495
+P 5650 4800
+F 0 "MX_ec11_46" H 5496 4720 60  0000 R CNN
+F 1 "MX-ec11" H 5496 4646 20  0000 R CNN
+F 2 "KiCadLibs:MX-1U-Hotswap-Antishear-ec11" H 5025 4775 60  0001 C CNN
+F 3 "" H 5025 4775 60  0001 C CNN
+	1    5650 4800
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5350 2050 5350 2950
+Connection ~ 5350 2050
+Connection ~ 5350 2950
+Wire Wire Line
+	6000 2050 6000 4750
+Connection ~ 6000 2050
+Wire Wire Line
+	6650 4750 6650 3850
+Connection ~ 6650 2050
+Connection ~ 6650 2950
+Wire Wire Line
+	6650 2950 6650 2050
+Wire Wire Line
+	7300 2050 7300 2950
+Connection ~ 7300 2050
+Connection ~ 7300 2950
+Wire Wire Line
+	7950 4750 7950 3850
+Connection ~ 7950 2050
+Connection ~ 7950 2950
+Wire Wire Line
+	7950 2950 7950 2050
+Wire Wire Line
+	8600 2050 8600 2950
+Connection ~ 8600 2050
+Connection ~ 8600 2950
+Wire Wire Line
+	9250 4750 9250 3850
+Connection ~ 9250 2050
+Connection ~ 9250 2950
+Wire Wire Line
+	9250 2950 9250 2050
+Wire Wire Line
+	9900 2050 9900 2950
+Connection ~ 9900 2050
+Connection ~ 9900 2950
+Wire Wire Line
+	4700 4750 4700 3850
+Connection ~ 4700 2050
+Connection ~ 4700 2950
+Wire Wire Line
+	4700 2950 4700 2050
+Connection ~ 4700 3850
+Wire Wire Line
+	4700 3850 4700 2950
+Wire Wire Line
+	4050 2050 4050 2950
+Connection ~ 4050 2050
+Connection ~ 4050 2950
+Wire Wire Line
+	4050 2950 4050 3850
+Connection ~ 4050 3850
+Wire Wire Line
+	4050 3850 4050 4750
+Wire Wire Line
+	3400 4750 3400 3850
+Connection ~ 3400 2050
+Connection ~ 3400 2950
+Wire Wire Line
+	3400 2950 3400 2050
+Connection ~ 3400 3850
+Wire Wire Line
+	3400 3850 3400 2950
+Wire Wire Line
+	2750 2050 2750 2950
+Connection ~ 2750 2050
+Connection ~ 2750 2950
+Wire Wire Line
+	2750 2950 2750 3850
+Connection ~ 2750 3850
+Wire Wire Line
+	2750 3850 2750 4750
+Wire Wire Line
+	2100 4750 2100 3850
+Connection ~ 2100 2050
+Connection ~ 2100 2950
+Wire Wire Line
+	2100 2950 2100 2050
+Connection ~ 2100 3850
+Wire Wire Line
+	2100 3850 2100 2950
+Connection ~ 9900 3850
+Wire Wire Line
+	9900 3850 9900 4750
+Wire Wire Line
+	9900 2950 9900 3850
+Connection ~ 6650 3850
+Wire Wire Line
+	6650 2950 6650 3850
+Connection ~ 7300 3850
+Wire Wire Line
+	7300 3850 7300 4750
+Wire Wire Line
+	7300 2950 7300 3850
+Connection ~ 7950 3850
+Wire Wire Line
+	7950 2950 7950 3850
+Connection ~ 8600 3850
+Wire Wire Line
+	8600 3850 8600 4750
+Wire Wire Line
+	8600 2950 8600 3850
+Connection ~ 9250 3850
+Wire Wire Line
+	9250 2950 9250 3850
+$Comp
+L ComboDiode:C_Small C8
+U 1 1 6046AA43
+P 5500 975
+F 0 "C8" V 5271 975 50  0000 C CNN
+F 1 "100nF" V 5362 975 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 5500 975 50  0001 C CNN
+F 3 "~" H 5500 975 50  0001 C CNN
+	1    5500 975 
+	0    1    1    0   
+$EndComp
+$Comp
+L ComboDiode:C_Small C9
+U 1 1 6046CBC9
+P 5700 975
+F 0 "C9" V 5471 975 50  0000 C CNN
+F 1 "100nF" V 5562 975 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 5700 975 50  0001 C CNN
+F 3 "~" H 5700 975 50  0001 C CNN
+	1    5700 975 
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	5600 975  5600 1900
+Wire Wire Line
+	5650 1900 5650 1325
+Wire Wire Line
+	5650 1325 5800 1325
+Wire Wire Line
+	5400 975  5400 1200
+Wire Wire Line
+	5400 1200 5550 1200
+Wire Wire Line
+	5550 1200 5550 1900
+Wire Wire Line
+	5400 975  5400 650 
+Connection ~ 5400 975 
+Text GLabel 5400 650  1    50   Input ~ 0
+ROT0
+Text GLabel 5800 650  1    50   Input ~ 0
+ROT1
+$Comp
+L ComboDiode:C_Small C10
+U 1 1 60489131
+P 5325 6250
+F 0 "C10" V 5554 6250 50  0000 C CNN
+F 1 "100nF" V 5463 6250 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 5325 6250 50  0001 C CNN
+F 3 "~" H 5325 6250 50  0001 C CNN
+	1    5325 6250
+	0    -1   -1   0   
+$EndComp
+$Comp
+L ComboDiode:C_Small C11
+U 1 1 60490555
+P 5525 6250
+F 0 "C11" V 5754 6250 50  0000 C CNN
+F 1 "100nF" V 5663 6250 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 5525 6250 50  0001 C CNN
+F 3 "~" H 5525 6250 50  0001 C CNN
+	1    5525 6250
+	0    -1   -1   0   
+$EndComp
+$Comp
+L power:GND #PWR0120
+U 1 1 604939AE
+P 5425 6250
+F 0 "#PWR0120" H 5425 6000 50  0001 C CNN
+F 1 "GND" H 5430 6077 50  0000 C CNN
+F 2 "" H 5425 6250 50  0001 C CNN
+F 3 "" H 5425 6250 50  0001 C CNN
+	1    5425 6250
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5550 4600 5500 4600
+Wire Wire Line
+	5500 4600 5500 5750
+Wire Wire Line
+	5500 5750 5625 5750
+Wire Wire Line
+	5600 4600 5600 4575
+Wire Wire Line
+	5600 4575 5450 4575
+Wire Wire Line
+	5450 4575 5450 5875
+Wire Wire Line
+	5450 5875 5425 5875
+Wire Wire Line
+	5650 4600 5650 4525
+Wire Wire Line
+	5650 4525 5400 4525
+Text GLabel 5225 6475 3    50   Input ~ 0
+ROT2
+Text GLabel 5625 6475 3    50   Input ~ 0
+ROT3
+Wire Wire Line
+	5800 650  5800 975 
+Connection ~ 5600 975 
+Connection ~ 5800 975 
+Wire Wire Line
+	5800 975  5800 1325
+Wire Wire Line
+	6100 975  6100 775 
+Wire Wire Line
+	6100 775  5600 775 
+Wire Wire Line
+	5600 775  5600 975 
+Wire Wire Line
+	5400 4525 5400 5750
+Wire Wire Line
+	5400 5750 5225 5750
+Wire Wire Line
+	5625 5750 5625 6250
+Wire Wire Line
+	5225 5750 5225 6250
+Connection ~ 5625 6250
+Wire Wire Line
+	5625 6250 5625 6475
+Connection ~ 5225 6250
+Wire Wire Line
+	5225 6250 5225 6475
+Connection ~ 5425 6250
+Wire Wire Line
+	5425 5875 5425 6250
+$Comp
+L power:GND #PWR0119
+U 1 1 6056BAFD
+P 6100 975
+F 0 "#PWR0119" H 6100 725 50  0001 C CNN
+F 1 "GND" H 6105 802 50  0000 C CNN
+F 2 "" H 6100 975 50  0001 C CNN
+F 3 "" H 6100 975 50  0001 C CNN
+	1    6100 975 
+	1    0    0    -1  
+$EndComp
+$EndSCHEMATC
