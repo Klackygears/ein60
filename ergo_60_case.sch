@@ -684,8 +684,6 @@ F 3 "" H 9125 2975 50  0001 L BNN
 	1    9125 2975
 	1    0    0    -1  
 $EndComp
-Text GLabel 7050 1875 0    50   Input ~ 0
-LEDDATA
 $Sheet
 S 9375 5975 625  450 
 U 602EC717

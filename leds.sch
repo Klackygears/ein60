@@ -518,18 +518,6 @@ Wire Wire Line
 	6575 2150 6575 2100
 Connection ~ 5725 2150
 Wire Wire Line
-	6475 2100 6475 2275
-Wire Wire Line
-	7500 2275 7500 2100
-Wire Wire Line
-	5625 2275 6475 2275
-Connection ~ 6475 2275
-Wire Wire Line
-	6475 2275 6675 2275
-Connection ~ 6675 2275
-Wire Wire Line
-	6675 2275 7500 2275
-Wire Wire Line
 	6575 2150 7400 2150
 Wire Wire Line
 	7400 2150 7400 2100
@@ -541,8 +529,6 @@ Wire Wire Line
 Connection ~ 6375 2200
 Wire Wire Line
 	7300 2100 7300 2300
-Wire Wire Line
-	7300 2300 8350 2300
 Wire Wire Line
 	8350 2300 8350 2100
 Wire Wire Line
@@ -556,12 +542,6 @@ Wire Wire Line
 	8050 2200 8050 2100
 Connection ~ 7200 2200
 Wire Wire Line
-	8150 2100 8150 2275
-Wire Wire Line
-	8150 2275 9175 2275
-Wire Wire Line
-	9175 2275 9175 2100
-Wire Wire Line
 	8250 2150 9075 2150
 Wire Wire Line
 	9075 2150 9075 2100
@@ -573,8 +553,6 @@ Wire Wire Line
 Connection ~ 8050 2200
 Wire Wire Line
 	8975 2100 8975 2300
-Wire Wire Line
-	8975 2300 10000 2300
 Wire Wire Line
 	10000 2300 10000 2100
 Wire Wire Line
@@ -1109,4 +1087,22 @@ Wire Wire Line
 	3925 4875 4975 4875
 Wire Wire Line
 	4975 4875 4975 4675
+Wire Wire Line
+	5625 2275 6675 2275
+Wire Wire Line
+	6475 2100 6475 2325
+Wire Wire Line
+	6475 2325 7500 2325
+Wire Wire Line
+	7500 2100 7500 2325
+Wire Wire Line
+	7300 2300 8350 2300
+Wire Wire Line
+	8150 2325 9175 2325
+Wire Wire Line
+	8150 2100 8150 2325
+Wire Wire Line
+	9175 2100 9175 2325
+Wire Wire Line
+	8975 2300 10000 2300
 $EndSCHEMATC
