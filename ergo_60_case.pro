@@ -1,4 +1,4 @@
-update=1/27/2021 2:40:21 PM
+update=2/22/2021 9:50:45 AM
 version=1
 last_client=kicad
 [general]
@@ -44,6 +44,9 @@ ViaDrill1=0.4
 dPairWidth1=0.2
 dPairGap1=0.25
 dPairViaGap1=0.25
+dPairWidth2=0.2
+dPairGap2=0.25
+dPairViaGap2=0
 SilkLineWidth=0.12
 SilkTextSizeV=1
 SilkTextSizeH=1
@@ -64,7 +67,7 @@ OthersTextSizeH=1
 OthersTextSizeThickness=0.15
 OthersTextItalic=0
 OthersTextUpright=1
-SolderMaskClearance=0.05
+SolderMaskClearance=0
 SolderMaskMinWidth=0
 SolderPasteClearance=-0.25
 SolderPasteRatio=-0
