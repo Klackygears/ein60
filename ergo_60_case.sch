@@ -329,13 +329,13 @@ Text GLabel 4675 5175 0    60   Input ~ 0
 COL7
 Text GLabel 4675 5275 0    60   Input ~ 0
 COL8
-Text GLabel 5875 5375 2    60   Input ~ 0
+Text GLabel 5875 5175 2    60   Input ~ 0
 COL9
-Text GLabel 5875 5475 2    60   Input ~ 0
+Text GLabel 5875 5275 2    60   Input ~ 0
 COL10
-Text GLabel 5875 5575 2    60   Input ~ 0
+Text GLabel 5875 5375 2    60   Input ~ 0
 COL11
-Text GLabel 5875 5675 2    60   Input ~ 0
+Text GLabel 5875 5475 2    60   Input ~ 0
 COL12
 Text GLabel 5875 3675 2    60   Input ~ 0
 COL0
@@ -706,9 +706,9 @@ Text GLabel 5875 4275 2    50   Input ~ 0
 ROT0
 Text GLabel 4675 5475 0    50   Input ~ 0
 ROT1
-Text GLabel 5875 5875 2    50   Input ~ 0
+Text GLabel 5875 5675 2    50   Input ~ 0
 ROT2
-Text GLabel 5875 5775 2    50   Input ~ 0
+Text GLabel 5875 5575 2    50   Input ~ 0
 ROT3
 Text GLabel 4675 5875 0    50   Input ~ 0
 LEDDATA
