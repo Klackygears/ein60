@@ -1,4 +1,4 @@
-19796938628529182
+19800169387767675
 Alps_Only
 ALPS-1.5U
 
@@ -56119,14 +56119,14 @@ mounting hole 2.2mm m2
 33
 1
 KiCadLibs
-AT90USB1286-AUQFP50P1200X1200X120-64N
-
-
+AT90USB1286-AU_QFP80P1600X1600X120-64N
+TQFP MD64
+Integrated Circuit
 0
 64
 64
 KiCadLibs
-AT90USB1286-AU_QFP80P1600X1600X120-64N
+AT90USB1286-AU_TQFP_16X16-64N
 TQFP MD64
 Integrated Circuit
 0
@@ -56371,6 +56371,13 @@ StripLED_BackOnly
 3
 3
 KiCadLibs
+TestPoint
+SMT Test Point- Micro Miniature 5019, http://www.keyelco.com/product-pdf.cfm?p=1357
+Test Point
+0
+1
+1
+KiCadLibs
 UnivSwitch_1U
 Single sided footprint for common switches and SK6812 MINI-E LED with Diode
 MX, Switch, ALPS, Choc, SK6812, Mini-E
@@ -56482,6 +56489,13 @@ MX, Switch, ALPS, Choc, SK6812, Mini-E
 0
 18
 8
+KiCadLibs
+nice_nano
+
+
+0
+29
+29
 LED_SMD
 LED-APA102-2020
 http://www.led-color.com/upload/201604/APA102-2020%20SMD%20LED.pdf
