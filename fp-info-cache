@@ -1,4 +1,4 @@
-19819631436031497
+19805035934242299
 Alps_Only
 ALPS-1.5U
 
@@ -56084,13 +56084,6 @@ GearLogo_small_ground
 1
 1
 KiCadImages
-GearLogo_small_silk
-
-
-0
-0
-0
-KiCadImages
 GearLogo_smallground
 
 
@@ -56378,13 +56371,6 @@ SW_PTS636_SM43J_SMTR_LFS
 2
 2
 KiCadLibs
-SolderJumper-Bridged-oneside
-SMD Solder Jumper, 1x1.5mm Triangular Pads, 0.3mm gap, open
-solder jumper open
-0
-5
-3
-KiCadLibs
 StripLED
 
 
@@ -56404,14 +56390,7 @@ TRRS_3.5mm_4pole_14mm
 
 0
 4
-4
-KiCadLibs
-Tactile_Switch_Side_EVQ-PUJ02K
-
-
-0
-4
-4
+1
 KiCadLibs
 TestPoint
 SMT Test Point- Micro Miniature 5019, http://www.keyelco.com/product-pdf.cfm?p=1357
@@ -56419,41 +56398,6 @@ Test Point
 0
 1
 1
-KiCadLibs
-Testout_edge
-
-
-0
-12
-12
-KiCadLibs
-Testout_edge_6_6
-
-
-0
-12
-12
-KiCadLibs
-Testout_edge_12_12
-
-
-0
-24
-24
-KiCadLibs
-Testout_edge_12_12+4_4
-
-
-0
-32
-32
-KiCadLibs
-USB_C_mid_mount
-
-
-0
-0
-0
 KiCadLibs
 UnivSwitch_1U
 Single sided footprint for common switches and SK6812 MINI-E LED with Diode
@@ -56566,13 +56510,6 @@ MX, Switch, ALPS, Choc, SK6812, Mini-E
 0
 18
 8
-KiCadLibs
-breakaway-mousebites
-
-
-0
-0
-0
 KiCadLibs
 nice_nano
 
