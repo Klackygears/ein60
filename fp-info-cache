@@ -1,4 +1,4 @@
-19805035934242299
+19800169387767675
 Alps_Only
 ALPS-1.5U
 
@@ -56196,13 +56196,6 @@ Elite-C-castellated-smd_flip
 58
 29
 KiCadLibs
-Elite-C_nice!nano
-
-
-0
-63
-34
-KiCadLibs
 HRO-TYPE-C-31-M-12_.25clearance
 
 
@@ -56329,13 +56322,6 @@ SK6812_SIDE-A
 6
 4
 KiCadLibs
-SK6812_SIDE-A_double
-
-
-0
-12
-4
-KiCadLibs
 SPARKFUN_PRO_MICRO
 SPARKFUN PRO MICO FOOTPRINT (WITH USB CONNECTOR)
 SPARKFUN PRO MICO FOOTPRINT (WITH USB CONNECTOR)
@@ -56384,13 +56370,6 @@ StripLED_BackOnly
 0
 3
 3
-KiCadLibs
-TRRS_3.5mm_4pole_14mm
-
-
-0
-4
-1
 KiCadLibs
 TestPoint
 SMT Test Point- Micro Miniature 5019, http://www.keyelco.com/product-pdf.cfm?p=1357
